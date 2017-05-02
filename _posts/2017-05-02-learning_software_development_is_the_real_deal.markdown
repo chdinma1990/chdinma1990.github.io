@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "“LEARNING SOFTWARE DEVELOPMENT IS THE REAL DEAL”"
-date:   2017-05-02 07:04:31 +0000
+date:   2017-05-02 03:04:32 -0400
 ---
 
 
 
 
-It’s always hard to find what you are passionate about when it comes to choosing a career path. Having a career is all about deriving joy from you do and doing it to the best of your abilities. Some people abandon their four-year college degree to work in their non-field of study. Why? The reason is because, after being on a job for 6 months they realize that they do not enjoy the work they do.
+It’s always hard to find what you are passionate about when it comes to choosing a career path. Having a career is all about deriving joy from what you do and doing it to the best of your ability. Some people abandon their four-year college degree to work in their non-field of study. Why? The reason is because, after being on a job for 6 months they realize that they do not enjoy the work they do.
 
   
-For me, right from the beginning I have always wanted to become an accountant but after working a year plus as an accountant, I discovered that looking at the spreadsheets and crunching numbers are not something I would want to do for a long time. However, software development is a lot of fun and I am the kind of person who love to creative beautiful things. 
+For me, right from the beginning I have always wanted to become an accountant but after working a year plus as an accountant, I discovered that looking at the spreadsheets and crunching numbers are not something I would want to do for a long time. However, software development is a lot of fun and I am the kind of person who love to create beautiful things. 
 
 My interest in pursuing software development grew when I first built a blog from scratch on Ruby on rails and also when I built my first website with WordPress and hosted it live with hostgator in January of 2017. 
 
