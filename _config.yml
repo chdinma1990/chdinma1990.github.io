@@ -1,0 +1,21 @@
+# Site settings
+title: MY LOVE FOR SOFTWARE DEVELOPMENT
+header-img: img/home-bg.png
+email: ceze1990@gmail.com
+copyright_name: chdinma1990
+description: > # this means to ignore newlines until "baseurl:"
+  Software development is the real deal.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  chdinma1990
+learn_profile: chdinma1990
+email_username: ceze1990@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
